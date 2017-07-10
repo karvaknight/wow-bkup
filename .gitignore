@@ -1,0 +1,21 @@
+## Wow ignored files ##
+Cache/*
+Data/*
+Errors_old/*
+Logs/*
+Screenshots/*
+Interface/Addons/Blizzard_*
+Updates/*
+Errors/*
+Utils/*
+*.build.info
+*.curseclient
+*.result
+*.db
+*.exe
+*.dll
+*.*fil
+*cache*
+*.mpq
+*.manifest
+*.DS_STORE

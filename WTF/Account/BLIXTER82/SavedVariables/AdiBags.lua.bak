@@ -1,0 +1,110 @@
+
+AdiBagsDB = {
+	["global"] = {
+		["muteBugGrabber"] = true,
+	},
+	["namespaces"] = {
+		["ItemLevel"] = {
+		},
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["ItemCategory"] = {
+			["profiles"] = {
+				["Default"] = {
+					["splitBySubclass"] = {
+						["Recipe"] = true,
+						["Tradeskill"] = true,
+						["Gem"] = true,
+						["Consumable"] = true,
+						["Miscellaneous"] = true,
+					},
+					["mergeGlyphs"] = false,
+				},
+			},
+		},
+		["MoneyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["small"] = true,
+				},
+			},
+		},
+		["NewItem"] = {
+		},
+		["Equipment"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Legion"] = {
+		},
+		["DataSource"] = {
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Ancient Mana"] = false,
+						["Elder Charm of Good Fortune"] = false,
+						["Valor"] = false,
+						["Lesser Charm of Good Fortune"] = false,
+						["Curious Coin"] = false,
+						["Artifact Fragment"] = false,
+						["Tol Barad Commendation"] = false,
+						["Timewarped Badge"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Lingering Soul Fragment"] = false,
+						["Epicurean's Award"] = false,
+						["Timeworn Artifact"] = false,
+						["Sightless Eye"] = false,
+						["Seal of Inevitable Fate"] = false,
+						["Oil"] = false,
+						["Apexis Crystal"] = false,
+						["Darkmoon Prize Ticket"] = false,
+						["Garrison Resources"] = false,
+						["Ironpaw Token"] = false,
+						["Mark of the World Tree"] = false,
+						["Champion's Seal"] = false,
+						["Mote of Darkness"] = false,
+					},
+				},
+			},
+		},
+		["ItemSets"] = {
+		},
+		["Bound"] = {
+		},
+		["Junk"] = {
+		},
+		["Hearthstones"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Naledi - Chamber of Aspects"] = "Default",
+		["Sluchy - Silvermoon"] = "Default",
+		["Meetgrind - Chamber of Aspects"] = "Default",
+		["Blixtra - Chamber of Aspects"] = "Default",
+		["Skinnleffe - Chamber of Aspects"] = "Default",
+		["Efaktura - Chamber of Aspects"] = "Default",
+		["Zoljad - Chamber of Aspects"] = "Default",
+		["Fazepalm - Chamber of Aspects"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["virtualStacks"] = {
+				["stackable"] = true,
+			},
+			["scale"] = 1,
+			["positions"] = {
+				["anchor"] = {
+					["xOffset"] = -48.66650390625,
+					["yOffset"] = 154.999633789063,
+				},
+			},
+		},
+	},
+}

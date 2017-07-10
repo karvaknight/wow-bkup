@@ -1,0 +1,14 @@
+
+TukuiConfigShared = {
+	["Chamber of Aspects"] = {
+		["Zoljad"] = {
+		},
+	},
+	["Silvermoon"] = {
+		["Sluchy"] = {
+		},
+	},
+	["Account"] = {
+	},
+}
+TukuiConfigPerAccount = nil

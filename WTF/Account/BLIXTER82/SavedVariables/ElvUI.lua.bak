@@ -1,0 +1,29 @@
+
+ElvDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Zoljad - Chamber of Aspects"] = "Zoljad - Chamber of Aspects",
+		["Sluchy - Silvermoon"] = "Sluchy - Silvermoon",
+	},
+	["profiles"] = {
+		["Zoljad - Chamber of Aspects"] = {
+		},
+		["Sluchy - Silvermoon"] = {
+		},
+	},
+}
+ElvPrivateDB = {
+	["profileKeys"] = {
+		["Zoljad - Chamber of Aspects"] = "Zoljad - Chamber of Aspects",
+		["Sluchy - Silvermoon"] = "Sluchy - Silvermoon",
+	},
+	["profiles"] = {
+		["Zoljad - Chamber of Aspects"] = {
+		},
+		["Sluchy - Silvermoon"] = {
+		},
+	},
+}
